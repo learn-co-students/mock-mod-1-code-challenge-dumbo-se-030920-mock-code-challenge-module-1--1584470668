@@ -10,9 +10,6 @@
     # Ride.average_distance
 # Returns the average distance across ALL rides
 
-
-
-
 class Ride
 
     attr_accessor :driver, :passenger, :distance
@@ -32,4 +29,3 @@ end
 
 
 
-end
