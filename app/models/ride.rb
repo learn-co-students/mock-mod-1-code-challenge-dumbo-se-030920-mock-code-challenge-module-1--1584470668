@@ -24,6 +24,8 @@ class Ride
     
     def self.all
         @@all
+    end
+    
 end
 
 
